@@ -1,1 +1,5 @@
-_config.yml
+title: Venkata Sai Ram Nadella
+#logo
+description: Microsoft Certified: Power BI DataAnalyst| Data Analysis & Reporting Expert
+#show_downloads: true
+theme: Jekyll-theme-Minimal
