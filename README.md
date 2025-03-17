@@ -1,4 +1,7 @@
 ## Venkata Sai Ram Nadella
+- **Intro**:  
+    I specialize in performing comprehensive data analysis to extract insights, developing clear and informative visualizations using Power BI, and effectively communicating my findings to both technical and non-technical audiences. I am a Microsoft Certified Power BI Professional, with over 12 years of experience in various roles.
+
 # Projects
 ### Project1
 - **Title**: Financial Data - Analysis using SQL  
