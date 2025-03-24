@@ -1,5 +1,5 @@
 ## Venkata Sai Ram Nadella
-### AboutMe
+### About Me
 I specialize in performing comprehensive data analysis to extract insights, developing clear and informative visualizations using Power BI, and effectively communicating my findings to both technical and non-technical audiences. I am a Microsoft Certified Power BI Professional, with over 12 years of experience in various roles.
 
 ### Skills
@@ -29,8 +29,8 @@ I specialize in performing comprehensive data analysis to extract insights, deve
 - **[PowerBI Project](https://github.com/Venkatasr665/Sales_Report-PowerBI/blob/main/README.md)**
 
 ### Project3
--Description
--Links
+- **Title**: Employees Data - SQL Challenges  
+- **Description** : This project showcases a comprehensive SQL database designed to manage and analyze employee information. It includes a series of queries that range from basic to advanced, demonstrating various SQL techniques and best practices. 
 
 # Education
 - Bachelores from Nalanda Institute of Engineering and Technology
