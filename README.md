@@ -24,8 +24,9 @@ I specialize in performing comprehensive data analysis to extract insights, deve
 - **[SQL Project](https://github.com/Venkatasr665/FinancialData-Analysis-using-SQL?tab=readme-ov-file#financial-data---analysis-using-sql)**
 
 ### Project2
--Description
--Links
+- **Title**: Sales Data - Report Creation using PowerBI  
+- **Description** : This project features a comprehensive Sales Dashboard created using Power BI. The dashboard provides insightful visualizations and analytics to help businesses track sales performance, identify trends, and make data-driven decisions.  
+- **[PowerBI Project](https://github.com/Venkatasr665/Sales_Report-PowerBI/blob/main/README.md)**
 
 ### Project3
 -Description
