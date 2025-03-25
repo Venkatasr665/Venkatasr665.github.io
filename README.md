@@ -30,7 +30,8 @@ I specialize in performing comprehensive data analysis to extract insights, deve
 
 ### Project3
 - **Title**: Employees Data - SQL Challenges  
-- **Description** : This project showcases a comprehensive SQL database designed to manage and analyze employee information. It includes a series of queries that range from basic to advanced, demonstrating various SQL techniques and best practices. 
+- **Description** : This project showcases a comprehensive SQL database designed to manage and analyze employee information. It includes a series of queries that range from basic to advanced, demonstrating various SQL techniques and best practices.
+- **[SQL Project](https://github.com/Venkatasr665/Employees-SQL-Challenge)**
 
 # Education
 - Bachelores from Nalanda Institute of Engineering and Technology
