@@ -18,20 +18,25 @@ I specialize in performing comprehensive data analysis to extract insights, deve
 - Looking to expand my network and collaborate with like-minded professionals in the data field.
 
 # Projects
-### Project1
+### Project 1
 - **Title**: Financial Data - Analysis using SQL  
 - **Description** : Conducted a data analysis exercise using SQL and derived high-level insights from the data. For this analysis, I created a sample financial dataset  
 - **[SQL Project](https://github.com/Venkatasr665/FinancialData-Analysis-using-SQL?tab=readme-ov-file#financial-data---analysis-using-sql)**
 
-### Project2
+### Project 2
 - **Title**: Sales Data - Report Creation using PowerBI  
 - **Description** : This project features a comprehensive Sales Dashboard created using Power BI. The dashboard provides insightful visualizations and analytics to help businesses track sales performance, identify trends, and make data-driven decisions.  
 - **[PowerBI Project](https://github.com/Venkatasr665/Sales_Report-PowerBI/blob/main/README.md)**
 
-### Project3
+### Project 3
 - **Title**: Employees Data - SQL Challenges  
 - **Description** : This project showcases a comprehensive SQL database designed to manage and analyze employee information. It includes a series of queries that range from basic to advanced, demonstrating various SQL techniques and best practices.
 - **[SQL Project](https://github.com/Venkatasr665/Employees-SQL-Challenge)**
+
+### Project 4
+- **Title**: Customer Center Performance Report 
+- **Description** : This project features a comprehensive Customer Call Center Perfomance Dashboard created using Power BI. The dashboard designed to analyze and visualize the performance metrics of a call center. It provides insights on calls received, answered, and customer satisfaction levels
+- **[Customer Care Report - PowerBI](https://github.com/Venkatasr665/Customer-Center-Performance-Report)**
 
 # Education
 - Bachelores from Nalanda Institute of Engineering and Technology
