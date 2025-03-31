@@ -28,7 +28,7 @@ I specialize in performing comprehensive data analysis to extract insights, deve
 - **Description** : This project features a comprehensive Sales Dashboard created using Power BI. The dashboard provides insightful visualizations and analytics to help businesses track sales performance, identify trends, and make data-driven decisions.  
 - **[PowerBI Project](https://github.com/Venkatasr665/Sales_Report-PowerBI/blob/main/README.md)**
 
-![Alt text](https://github.com/Venkatasr665/Sales_Report-PowerBI/blob/a120514fbe76a6748612639fb2fbf28f9375e12d/SalesDashboard.png)
+![Alt text](https://github.com/Venkatasr665/Sales_Report-PowerBI/blob/main/SalesDashboard.png?raw=true)
 
 ### Project 3
 - **Title**: Employees Data - SQL Challenges  
