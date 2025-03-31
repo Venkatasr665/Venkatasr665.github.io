@@ -37,6 +37,7 @@ I specialize in performing comprehensive data analysis to extract insights, deve
 - **Title**: Customer Center Performance Report 
 - **Description** : This project features a comprehensive Customer Call Center Perfomance Dashboard created using Power BI. The dashboard designed to analyze and visualize the performance metrics of a call center. It provides insights on calls received, answered, and customer satisfaction levels
 - **[Customer Care Report - PowerBI](https://github.com/Venkatasr665/Customer-Center-Performance-Report)**
+- ![Alt text](https://github.com/Venkatasr665/Customer-Center-Performance-Report/blob/main/Customer%20care%20center.png?raw=true)
 
 # Education
 - Bachelores from Nalanda Institute of Engineering and Technology
